@@ -25,10 +25,10 @@ Pasarela
 
 ## Educacion 
 ##### Bachiller Academico 
-Institucion Educativa Tecnica Ciudad Luz
+- Institucion Educativa Tecnica Ciudad Luz
 
 ##### Estudiante En Ingenieria En Sistemas
-Corporacion Unificada Nacional De Educacion Superior
+- Corporacion Unificada Nacional De Educacion Superior
 
 | USUARIO  |LINK  |
 | ------ | ------ |
