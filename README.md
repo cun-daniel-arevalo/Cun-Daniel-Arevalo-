@@ -8,12 +8,20 @@
 ------------------------------------------------------------------------------
 ## Experiencia Laboral
 #### Mesero
+
+Soho Karaoke
+
 2024 - Presente 
-Ejerzo Las funciones de atencion al cliente y limpieza del lugar.
+
+- Ejerzo Las funciones de atencion al cliente y limpieza del lugar.
 
 #### Atencion Al Cliente En Tienda De Ropa
+
+Pasarela
+
 2023 - 2024
-Ejerci  el trabajo del atencion al cliente Y organizacion del lugar.
+
+- Ejerci  el trabajo del atencion al cliente Y organizacion del lugar.
 
 ## Educacion 
 ##### Bachiller Academico 
