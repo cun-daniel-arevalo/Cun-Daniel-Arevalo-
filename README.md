@@ -8,19 +8,19 @@
 ------------------------------------------------------------------------------
 ## Experiencia Laboral
 - Mesero
-2024 - Presente 
-Ejerzo Las funciones de atencion al cliente y limpieza del lugar.
+-2024 - Presente 
+-Ejerzo Las funciones de atencion al cliente y limpieza del lugar.
 
 - Atencion Al Cliente En Tienda De Ropa
-2023 - 2024
-Ejerci  el trabajo del atencion al cliente Y organizacion del lugar.
+-2023 - 2024
+-Ejerci  el trabajo del atencion al cliente Y organizacion del lugar.
 
-## Educaion 
+## Educacion 
 - Bachiller Academico 
-Institucion Educativa Tecnica Ciudad Luz
+-Institucion Educativa Tecnica Ciudad Luz
 
 - Estudiante En Ingenieria En Sistemas
-Corporacion Unificada Nacional De Educacion Superior
+-Corporacion Unificada Nacional De Educacion Superior
 
 | USUARIO  |LINK  |
 | ------ | ------ |
