@@ -1,7 +1,7 @@
 # Daniel Arevalo Sanchez
 ------------------------------------------------------------------------------
 
- ## Ingenieria En Sistemas - 1 Semestre
+ ## Ingenieria En Sistemas - Primer Semestre
  -----------------------------------------------------------------------------
  Tengo 18 años, soy ingeniero en sistemas de primer semestre en la Corporaciion Unificada Nacional De Educacion Superior, actualmente trabajo de mesero en un gastro-bar donde mis funciones son atencion al cliente y mantene el area del lugar limpia.
 
