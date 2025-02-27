@@ -33,4 +33,4 @@ Pasarela
 | USUARIO  |LINK  |
 | ------ | ------ |
 | Cun_Jairo Agudelo | https://github.com/cun-jairo |
-| GitHub |  |
+| CunJuanValencia |  |
